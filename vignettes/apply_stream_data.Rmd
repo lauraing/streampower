@@ -1,0 +1,24 @@
+---
+title: "apply_stream_data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{apply_stream_data}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(streampower)
+```
+
+## Example of using stream data
+
+```{r}
+
+
+
+```
+
